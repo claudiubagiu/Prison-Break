@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WinScreen
+comment0.text=\r\n\ afiseaza\ Current\ Time\ si\ Best\ Time,\ iar\ in\ caz\ ca\ Current\ Time\ <\ Best\ Time,\ creeaza\ un\ nou\ bestscore\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=WinScreen()
+comment3.params=
+comment3.target=void\ ScoreAndMisc()
+comment4.params=filename
+comment4.target=java.util.List\ loadFileLastTime(java.lang.String)
+comment5.params=filename
+comment5.target=java.util.List\ loadFileBestTime(java.lang.String)
+comment6.params=filename\ addToExistingFile\ fileText
+comment6.target=boolean\ saveFile(java.lang.String,\ boolean,\ java.lang.String[])
+comment7.params=filename
+comment7.target=boolean\ deleteFile(java.lang.String)
+comment8.params=filename
+comment8.target=java.util.List\ loadFile(java.lang.String)
+comment9.params=numStr
+comment9.target=int\ stringToInteger(java.lang.String)
+numComments=10

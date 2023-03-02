@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CopRunner
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ CheckPlayers()
+comment3.params=Player
+comment3.target=void\ GoToPlayer(greenfoot.Actor)
+numComments=4

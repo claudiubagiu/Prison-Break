@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\n\ Aici\ creez\ TextBox\ pentru\ PreGame\ ,\ cu\ dimeniuni\ in\ functie\ de\ numarul\ de\ linii\r\n\ \r\n\r\n\ \r\n
+comment1.params=text
+comment1.target=TextBox(java.lang.String)
+comment2.params=text
+comment2.target=void\ setTextt(java.lang.String)
+numComments=3

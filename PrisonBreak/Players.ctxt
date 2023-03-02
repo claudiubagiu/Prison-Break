@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Players
+comment1.params=
+comment1.target=boolean\ hitObject()
+comment2.params=x\ y
+comment2.target=void\ changeSize(double,\ double)
+comment3.params=
+comment3.target=void\ ImageSet()
+comment4.params=
+comment4.target=void\ LostGame()
+numComments=5

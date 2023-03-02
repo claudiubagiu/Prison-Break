@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vent1
+comment0.text=\r\n\ Vent-ul\ din\ celula\ personajelor\ principale\ ,\ care\ actioneaza\ in\ functie\ de\ tasta\ apasata\r\n\ \r\n\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ Hints()
+comment3.params=
+comment3.target=Vent1()
+comment4.params=
+comment4.target=void\ VerifPlayer1()
+numComments=5

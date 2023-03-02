@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cop1
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Cop1()
+comment3.params=
+comment3.target=void\ MovingCycle()
+comment4.params=
+comment4.target=void\ PlayerNearby()
+comment5.params=
+comment5.target=void\ OpenDoor1()
+numComments=6
